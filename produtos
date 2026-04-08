@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja - Ferreirapixel</title>
+</head>
+<body>
+    
+    <h1>Loja de Ranks e Cosméticos</h1>
+    
+    <hr>
+
+    <h3>Menu</h3>
+
+    <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="quemsomos.html">Sobre o Server</a></li>
+    <li><a href="info.html">Info</a></li>
+    <li><a href="produtos.html">Loja de Ranks e Cosméticos</a></li>
+    <li><a href="boletim.html">Cadastro</a></li>
+    </ul>
+
+    <hr>
+
+    <h2>Itens disponíveis</h2>
+
+    <table border="1">
+
+        <tr>
+            <th>Imagem</th>
+            <th>Item</th>
+            <th>Tipo</th>
+            <th>Raridade</th>
+            <th>Preço</th>
+        </tr>
+
+        <tr>
+            <td><img src="img/rankvip.webp" width="200" alt="rankvip"></td>
+            <td>Rank VIP</td>
+            <td>Cargo</td>
+            <td>Comum</td>
+            <td>150 coins</td>
+        </tr>
+
+        <tr>
+            <td><img src="img/rankmvp.webp" width="200" alt="rankmvp"></td>
+            <td>Rank MVP+</td>
+            <td>Cargo</td>
+            <td>Lendário</td>
+            <td>800 coins</td>
+        </tr>
+
+        <tr>
+            <td><img src="img/mysterybox.webp" width="200" alt="mysterybox"></td>
+            <td>Caixa Misteriosa (Mystery Box)</td>
+            <td>Cosmético</td>
+            <td>Médio/Raro</td>
+            <td>150 coins</td>
+        </tr>
+
+        <tr>
+            <td><img src="img/petdragao.webp" width="200" alt="petdragao"></td>
+            <td>Pet Ender Dragon</td>
+            <td>Lobby Pet</td>
+            <td>Épico</td>
+            <td>300 coins</td>
+        </tr>
+
+    </table>
+
+    <hr>
+
+    <p>
+        Os itens podem ser adquiridos na nossa loja oficial para apoiar a manutenção do servidor.
+    </p>
+
+    <p>
+        Contato: suporte@ferreirapixel.com
+    </p>
+
+    <p>
+        A diversão nunca para!
+    </p>
+
+</body>
+</html>
