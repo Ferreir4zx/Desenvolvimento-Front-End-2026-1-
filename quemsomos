@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre o Servidor - Ferreirapixel</title>
+</head>
+<body>
+    
+    <h1>Ferreirapixel</h1>
+    
+    <h2>A maior rede de Minigames</h2>
+    
+    <hr>
+
+    <h3>Menu</h3>
+
+    <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="quemsomos.html">Sobre o Server</a></li>
+    <li><a href="info.html">Info</a></li>
+    <li><a href="produtos.html">Loja de Ranks e Cosméticos</a></li>
+    <li><a href="boletim.html">Cadastro</a></li>
+    </ul>
+
+    <hr>
+
+    <h2>Quem somos</h2>
+
+    <p>
+        O <strong>Ferreirapixel</strong> é um server focado em diversão multiplayer,
+        competição, modos de jogo exclusivos e entretenimento dentro do universo Minecraft.
+    </p>
+
+    <p>
+        Nosso objetivo é reunir jogadores que desejam sair da rotina do survival comum,
+        explorando minigames dinâmicos, sistemas de <em>guildas</em>, leaderboards
+        e modos de jogo acelerados.
+    </p>
+
+    <h2>Nossa proposta</h2>
+
+    <p>
+        Diferente de servidores tradicionais, aqui o foco não é apenas sobreviver,
+        mas <strong>competir, jogar em equipe e vencer</strong>.
+    </p>
+
+    <p>
+        Criamos um ambiente com plugins próprios e mapas customizados,
+        desde partidas rápidas de 5 minutos até a progressão infinita do nosso RPG.
+    </p>
+
+    <hr>
+
+    <h2>O que nos diferencia?</h2>
+
+    <ul>
+        <li>Comunidade gigante e sempre ativa</li>
+        <li>Mais de 40 minigames originais e atualizados</li>
+        <li>Sistema anti-cheat de última geração</li>
+        <li>Espaço para todos os níveis, do casual ao competitivo (Ranked)</li>
+    </ul>
+
+    <hr>
+
+    <h2>Visão</h2>
+
+    <p>
+        Ser o melhor e mais divertido ambiente onde jogadores possam fazer amigos,
+        testar suas habilidades no PvP e colecionar conquistas inesquecíveis.
+    </p>
+
+    <hr>
+
+    <p>
+        Contato: suporte@ferreirapixel.com
+    </p>
+
+    <p>
+        A diversão nunca para!
+    </p>
+
+</body>
+</html>
