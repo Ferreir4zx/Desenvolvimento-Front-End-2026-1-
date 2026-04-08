@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ferreirapixel - Servidor de Minecraft</title>
+</head>
+<body>
+    
+    <h1>Ferreirapixel</h1>
+    
+    <h2>Servidor de Minigames e Diversão</h2>
+    
+    <hr>
+
+    <h3>Menu</h3>
+
+    <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="quemsomos.html">Sobre o Server</a></li>
+    <li><a href="info.html">Info</a></li>
+    <li><a href="produtos.html">Loja de Ranks e Cosméticos</a></li>
+    <li><a href="boletim.html">Cadastro</a></li>
+    </ul>
+
+    <hr>
+
+    <h2>Bem vindo ao Ferreirapixel</h2>
+
+    <p>
+        Entre em uma comunidade BR e internacional onde teremos os melhores jogadores de PvP e Minigames.
+        No <strong>Ferreirapixel</strong>, você pode competir,
+        jogar com amigos e se divertir em um ambiente incrível.
+    </p>
+
+    <p>
+        Nosso server conta com dezenas de modos de jogo,
+        sistema de economia global (SkyBlock), eventos e interação entre players.
+    </p>
+
+    <h2>O que fazer?</h2>
+
+    <ul>
+        <li>Destruir camas no Bed Wars</li>
+        <li>Criar sua ilha e farmar no SkyBlock</li>
+        <li>Sobreviver no Murder Mystery e Hunger Games</li>
+        <li>Batalhar nas arenas de Duels e PvP</li>
+    </ul>
+
+    <hr>
+
+    <p>
+        Contato: suporte@ferreirapixel.com
+    </p>
+
+    <p>
+        A diversão nunca para!
+    </p>
+
+</body>
+</html>
