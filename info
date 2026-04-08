@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informações - Ferreirapixel</title>
+</head>
+<body>
+    
+    <h1>Informações do servidor</h1>
+    
+    <hr>
+
+    <h3>Menu</h3>
+
+    <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="quemsomos.html">Sobre o Server</a></li>
+    <li><a href="info.html">Info</a></li>
+    <li><a href="produtos.html">Loja de Ranks e Cosméticos</a></li>
+    <li><a href="boletim.html">Cadastro</a></li>
+    </ul>
+
+    <hr>
+
+    <h2>Mecânicas importantes</h2>
+
+    <ul>
+        <li>Sistema de combate clássico focado em PvP</li>
+        <li>Economia robusta no modo SkyBlock (Leilão e Bazar)</li>
+        <li>Parties e Guildas para jogar com seus amigos</li>
+        <li>Sistema de níveis e conquistas (Achievements)</li>
+    </ul>
+
+    <hr>
+
+    <h2>Dicas para iniciantes</h2>
+    
+    <ol>
+        <li>Jogue os tutoriais no Lobby principal (Baguio é frenético)</li>
+        <li>No Bed Wars, proteja sua cama com lã, madeira e endstone</li>
+        <li>Organize sua party de amigos antes de entrar nas partidas</li>
+        <li>Treine sua mira e os seus "clicks" por segundo (CPS)</li>
+    </ol>
+
+    <hr>
+
+    <h2>Tipos de atividades no servidor</h2>
+
+    <ul>
+        <li>Modos de estratégia (Bed Wars, SkyWars)</li>
+        <li>Área de RPG e economia (SkyBlock)</li>
+        <li>Modos casuais (Build Battle, Arcade Games)</li>
+        <li>Torneios competitivos mensais</li>
+    </ul>
+
+    <hr>
+
+<section>
+    <h2>Glossário básico</h2>
+
+    <dl>
+        <dt>Bed Wars</dt>
+        <dd>Minigame onde o objetivo é destruir a cama dos inimigos e proteger a sua</dd>
+
+        <dt>SkyBlock</dt>
+        <dd>Modo RPG de longa duração numa ilha flutuante com centenas de itens customizados</dd>
+
+        <dt>Party</dt>
+        <dd>Grupo temporário de jogadores formado para entrarem juntos no mesmo minigame</dd>
+    </dl>
+</section>    
+
+    <hr>
+
+    <p>
+        Contato: suporte@ferreirapixel.com
+    </p>
+
+    <p>
+        A diversão nunca para!
+    </p>
+
+</body>
+</html>
